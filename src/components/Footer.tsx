@@ -13,7 +13,7 @@ const Footer = () => {
     {
       
       tag: <BiLogoInstagramAlt size={20} />,
-      url: "https://instagram.com/yourusername",
+      url: "https://instagram.com/http.arjun.07",
     },
     {
       
