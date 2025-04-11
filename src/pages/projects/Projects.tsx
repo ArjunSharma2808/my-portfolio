@@ -5,29 +5,29 @@ const Projects = () => {
     {
       emoji: "🌐",
       title: "Hackernews-Server",
-      projectUrl: "https://github.com/sohanreddyk/hackernews-server",
+      projectUrl: "https://github.com/ArjunSharma2808/hackernews-server",
       description: "Developed Hackernews server clone",
     },
     {
       emoji: "⛑️",
       title: "Safety Helmet Detection",
-      projectUrl: "https://github.com/jswaroop123/FileLess_Malware",
+      projectUrl: "https://github.com/ArjunSharma2808/TRAFFIC-VIOLATION-DETECTION-USING-YOLO-V8",
       description:
-        "Developed ML model using YOLOv5 + Streamlit to detect Safety Helmet",
+        "Developed ML model using YOLOv8 for the detection of traffic violation detection",
     },
     {
       emoji: "🎗️",
       title: "Resume Builder",
-      projectUrl: "https://github.com/sohanreddyk/resumebuilder",
+      projectUrl: "https://github.com/ArjunSharma2808/IIT-JEE-AI-AGENTS",
       description:
-        "Developed an AI-powered Resume Builder using React + TailwindCSS",
+        "AI Agents to create questions for JEE Advanced using GPT-4o",
     },
     {
       emoji: "⚽️",
       title: "PL-Prediction",
       projectUrl:
-        "https://github.com/sohanreddyk/PL-prediction",
-      description: "Developed a Premier League Match Prediction System",
+        "https://github.com/ArjunSharma2808/Medical-Information-Extraction-From-Clincal-Text",
+      description: "This is a project regarding medical information extraction from clinical text using clinical text",
     },
   ];
 
