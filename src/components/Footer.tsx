@@ -8,12 +8,12 @@ const Footer = () => {
     {
       
       tag: <VscGithubInverted size={20} />,
-      url: "https://github.com/ArjunSharma2808",
+      url: "https://github.com/ArjunSharma2808/",
     },
     {
       
       tag: <BiLogoInstagramAlt size={20} />,
-      url: "https://instagram.com/http.arjun.07",
+      url: "https://instagram.com/http.arjun.07/",
     },
     {
       
@@ -23,7 +23,7 @@ const Footer = () => {
     {
       
       tag: <FaLinkedin size={20} />,
-      url: "https://www.linkedin.com/in/jagadish-c-k-93b729187/",
+      url: "https://www.linkedin.com/in/arjun-sharma-99351a1b8/",
     },
     {
       
