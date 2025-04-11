@@ -8,7 +8,7 @@ const Footer = () => {
     {
       
       tag: <VscGithubInverted size={20} />,
-      url: "https://github.com/jagadish018",
+      url: "https://github.com/ArjunSharma2808",
     },
     {
       
