@@ -18,7 +18,7 @@ const Footer = () => {
     {
       
       tag: <FaXTwitter size={16} />,
-      url: "https://x.com/JagadishCK4056",
+      url: "https://x.com/",
     },
     {
       
