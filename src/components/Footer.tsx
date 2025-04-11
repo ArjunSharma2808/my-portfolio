@@ -28,7 +28,7 @@ const Footer = () => {
     {
       
       tag: <SiLeetcode size={20} />,
-      url: "https://leetcode.com/u/jagadishck018/",
+      url: "https://leetcode.com/u/",
     },
   ];
   return (
