@@ -7,7 +7,7 @@ const About = () => {
         </h1>
       </div>
       <div className="text-white flex-wrap flex flex-col gap-2  text-start ">
-        <p>I'm Sohan Reddy, a passionate Fullstack Developer</p>
+        <p>I'm Arjun Sharma, a passionate Fullstack Developer</p>
         <p>
           with experience in building responsive web applications using modern
         </p>
