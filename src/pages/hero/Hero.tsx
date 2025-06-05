@@ -18,7 +18,7 @@ const Hero = () => {
     {
       title: "X/Twitter",
       tag: <FaXTwitter size={16} />,
-      url: "https://x.com/sohanreddyy?s=21",
+      url: "https://x.com/",
     },
     {
       title: "LinkedIn",
@@ -28,7 +28,7 @@ const Hero = () => {
     {
       title: "Leetcode",
       tag: <SiLeetcode size={20} />,
-      url: "https://leetcode.com/u/sohanreddyy/",
+      url: "https://leetcode.com/",
     },
   ];
 
