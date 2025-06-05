@@ -14,7 +14,7 @@ const Connect = () => {
         <div className="flex flex-col gap-3">
           <CurrentTimeIST />
           <a
-            href="https://www.linkedin.com/in/sohanreddyk/"
+            href="https://www.linkedin.com/in/arjun-sharma-99351a1b8/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-amber-50 hover:text-amber-100 text-center bg-blue-500 rounded-4xl cursor-pointer p-2 w-35"
