@@ -8,7 +8,7 @@ const Hero = () => {
     {
       title: "GitHub",
       tag: <VscGithubInverted size={20} />,
-      url: "https://github.com/sohanreddyk",
+      url: "https://github.com/ArjunSharma2808",
     },
     {
       title: "Instagram",
@@ -23,7 +23,7 @@ const Hero = () => {
     {
       title: "LinkedIn",
       tag: <FaLinkedin size={20} />,
-      url: "https://www.linkedin.com/in/sohanreddyk/",
+      url: "https://www.linkedin.com/in/arjun-sharma-99351a1b8/",
     },
     {
       title: "Leetcode",
