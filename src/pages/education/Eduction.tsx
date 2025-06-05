@@ -5,7 +5,7 @@ const Education = () => {
     {
       degree: "Bachelor of Engineering",
       branch: "Artificial Intelligence and Data Science",
-      duration: "2022 - 2025",
+      duration: "2021 - 2025",
       college: "Siddaganga Institute Of Technology",
       Grade: "A",
     },
