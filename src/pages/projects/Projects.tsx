@@ -23,7 +23,7 @@ const Projects = () => {
         "AI Agents to create questions for JEE Advanced using GPT-4o",
     },
     {
-      emoji: "⚽️",
+      emoji: "🩺",
       title: "Medical-Information-Extraction-From-Clincal-Text",
       projectUrl:
         "https://github.com/ArjunSharma2808/Medical-Information-Extraction-From-Clincal-Text",
