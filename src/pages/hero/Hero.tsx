@@ -13,7 +13,7 @@ const Hero = () => {
     {
       title: "Instagram",
       tag: <BiLogoInstagramAlt size={20} />,
-      url: "https://www.instagram.com/sohanreddyy/",
+      url: "https://www.instagram.com/http.arjun.07/",
     },
     {
       title: "X/Twitter",
