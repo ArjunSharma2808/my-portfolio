@@ -4,27 +4,27 @@ const Projects = () => {
   const details = [
     {
       emoji: "🌐",
-      title: "Hackernews-Server",
-      projectUrl: "https://github.com/ArjunSharma2808/hackernews-server",
+      title: "My-Hacker-News",
+      projectUrl: "https://github.com/ArjunSharma2808/My-Hacker_News",
       description: "Developed Hackernews server clone",
     },
     {
       emoji: "⛑️",
-      title: "Safety Helmet Detection",
+      title: "TRAFFIC-VIOLATION-DETECTION-USING-YOLO-V8",
       projectUrl: "https://github.com/ArjunSharma2808/TRAFFIC-VIOLATION-DETECTION-USING-YOLO-V8",
       description:
         "Developed ML model using YOLOv8 for the detection of traffic violation detection",
     },
     {
       emoji: "🎗️",
-      title: "Resume Builder",
+      title: "IIT-JEE-AI-AGENTS",
       projectUrl: "https://github.com/ArjunSharma2808/IIT-JEE-AI-AGENTS",
       description:
         "AI Agents to create questions for JEE Advanced using GPT-4o",
     },
     {
       emoji: "⚽️",
-      title: "PL-Prediction",
+      title: "Medical-Information-Extraction-From-Clincal-Text",
       projectUrl:
         "https://github.com/ArjunSharma2808/Medical-Information-Extraction-From-Clincal-Text",
       description: "This is a project regarding medical information extraction from clinical text using clinical text",
